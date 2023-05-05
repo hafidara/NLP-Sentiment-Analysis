@@ -1,6 +1,7 @@
 id,text,sentiment
-1,"I loved the new iPhone, it's so fast and sleek!",positive
+1,"I loved the new Grimes song, it is so soothing!",positive
 2,"The service at this restaurant was terrible, I would not recommend it.",negative
 3,"This book is a masterpiece, I highly recommend it to anyone.",positive
 4,"The movie was boring and uninteresting, I fell asleep halfway through.",negative
 5,"I had a great experience shopping at this store, the staff were very helpful.",positive
+6,"I feel hungry", neutral
