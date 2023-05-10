@@ -21,5 +21,4 @@ sentence = input("Enter a sentence: ")
 blob = TextBlob(sentence)
 polarity = blob.sentiment.polarity
 sentiment = 'positive' if polarity > 0 else 'negative' if polarity < 0 else 'neutral'
-print(f"The sentiment of '{sentence}' is {sentiment}.")
-
+print(f"The sentiment of '{sentence}' is {sentiment}. {polarity}")

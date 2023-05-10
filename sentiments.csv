@@ -5,3 +5,10 @@ id,text,sentiment
 4,"The movie was boring and uninteresting, I fell asleep halfway through.",negative
 5,"I had a great experience shopping at this store, the staff were very helpful.",positive
 6,"I feel hungry", neutral
+7, "no", negative
+8,"hhhhh", positive
+9, "pregnant", positive
+10, "pregnant", negative
+11,"hahaha",walo
+12,"funny", negative
+13,"terrible"
